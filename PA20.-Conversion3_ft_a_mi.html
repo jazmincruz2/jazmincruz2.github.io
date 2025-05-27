@@ -1,0 +1,25 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="emii" id="emii" value="REGRESAR"> </a>
+    <div id="agua_1"><br><br>  <em>Introduce una cantidad en PIES:</em>
+        <input type="text" name="pp" id="pp">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <em>Tu cantidad en millas es: </em> 
+        <input type="text" name="coor" id="coor"></div> 
+        <script>
+            function Convertir()
+            {
+                var z3 = document.getElementById('pp').value;
+                var respuesta = z3 /5280;
+                document.getElementById('coor').value = respuesta;
+            }
+        </script>
+</body>
+</html>

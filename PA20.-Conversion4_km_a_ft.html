@@ -1,0 +1,28 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversion4</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="er" id="er" value="REGRESAR"> </a>
+    <center>   
+    <div id="sol_1"><br><br>  <em>Introduce una cantidad en KILOMETROS:</em>
+        <input type="text" name="rojo" id="rojo">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <em>Tu cantidad en pies es: </em> 
+        <input type="text" name="mora" id="mora"></div> 
+    </center>
+        <script>
+            function Convertir()
+            {
+                var j12 = document.getElementById('rojo').value;
+                var respuesta = j12 * 3280.84;
+                document.getElementById('mora').value = respuesta;
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="do" id="do" value="REGRESAR"> </a>
+    <center>    
+        <div id="piso_1"><br><br>  <em>Introduce tu cantidad en Toneladas:</em>
+        <input type="text" name="fresita" id="fresita">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <i>Tu cantidad en kilogramos es: </i> 
+        <input type="text" name="suu" id="suu"></div> </center>
+        <script>
+            function Convertir()
+            {
+                var ctr1 = document.getElementById('fresita').value;
+                var respuesta = ctr1 * 1000;
+                document.getElementById('suu').value = respuesta;
+            }
+        </script>
+</body>
+</html>

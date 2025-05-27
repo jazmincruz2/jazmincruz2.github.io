@@ -1,0 +1,27 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Yardas a Pulgadas</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+
+        <a href="PA20.-pagina_de_menu.html"><input type="button" name="zz" id="zz" value="REGRESAR"> </a>
+        <center>
+        <div id="azul_1"><br><br>  <em>Introduce tu cantidad en Yardas:</em>
+        <input type="text" name="oli3" id="oli3">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <em>Tu cantidad en pulgadas es: </em> 
+        <input type="text" name="fresa" id="fresa"></div> </center>
+        <script>
+            function Convertir()
+            {
+                var v1 = document.getElementById('oli3').value;
+                var respuesta = v1 * 36;
+                document.getElementById('fresa').value = respuesta;
+            }
+        </script>
+</body>
+</html>

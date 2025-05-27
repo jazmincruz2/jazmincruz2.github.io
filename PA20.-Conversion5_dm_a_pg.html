@@ -1,0 +1,26 @@
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+     <a href="PA20.-pagina_de_menu.html"><input type="button" name="jab" id="jab" value="REGRESAR"> </a>
+    <div id="seta_1"> <br>  <em>Introduce una cantidad en PIES:</em>
+        <input type="text" name="jazm" id="jazm">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <i>Tu cantidad en millas es: </i> 
+        <input type="text" name="arbol" id="arbol"></div> 
+        <script>
+            function Convertir()
+            {
+                var r7 = document.getElementById('jazm').value;
+                var respuesta = r7 * 3.93701;
+                document.getElementById('arbol').value = respuesta;
+            }
+        </script>
+</body>
+</html>

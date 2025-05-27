@@ -1,0 +1,28 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="vol" id="vol" value="REGRESAR"> </a>
+        <center>
+        <div id="marr_2"> <br>  <em>Introduce la cantidad en MILIGRAMOS:</em>
+        <input type="text" name="soff" id="soff">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <i>Tu cantidad en GRAMOS es: </i> 
+        <input type="text" name="lirio" id="lirio"></div> 
+        </center>
+        <script>
+          
+            function Convertir()
+            {
+                var k12 = document.getElementById('soff').value;
+                var respuesta = k12 / 1000;
+                document.getElementById('lirio').value = respuesta;
+            }
+        </script>
+</body>
+</html>

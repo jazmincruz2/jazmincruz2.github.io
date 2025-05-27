@@ -1,0 +1,27 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="ol" id="ol" value="REGRESAR"> </a>
+
+        <div id="esc_7"> <br>  <em>Introduce la cantidad en ONZAS:</em>
+        <input type="text" name="ell" id="ell">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        <i>Tu cantidad en GRAMOS es: </i> 
+        <input type="text" name="buzs" id="buzs"></div> 
+        <script>
+          
+            function Convertir()
+            {
+                var l31 = document.getElementById('ell').value;
+                var respuesta = l31 / 1000;
+                document.getElementById('buzs').value = respuesta;
+            }
+        </script>
+</body>
+</html>

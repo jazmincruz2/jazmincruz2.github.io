@@ -1,0 +1,26 @@
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="PA20.-Pagina_conversion_diseño.css">
+</head>
+<body>
+    <a href="PA20.-pagina_de_menu.html"><input type="button" name="jaaz" id="jaaz" value="REGRESAR"> </a>
+    <div id="vaca_1"><br><br> <i>Introduce tu cantidad en CENTIMETROS:</i>     
+        <input type="text" name="jaz1" id="jaz1">
+        <br><br>
+        <input type="button" name="convertir" id="Convertir" value="Convertir" onclick="Convertir()">
+        <br><br>
+        Tu cantidad en metros es:
+        <input type="text" name="result" id="result"></div>
+        <script>
+            function Convertir()
+            {
+                var j1 = document.getElementById('jaz1').value;
+                var respuesta = j1 / 100;
+                document.getElementById('result').value = respuesta;
+            }
+        </script>
+</body>
+</html>
