@@ -1,0 +1,320 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#jazmin
+{
+    width: 1330px;
+    height: 1620px;
+    background-color: wheat;
+    border: 2px solid rebeccapurple;
+    margin: 20px auto;
+    text-align: center;
+}
+    #hola
+    {
+        width: 1280px;
+        height: 400px;
+        background-color: tan;
+        margin: 10px;
+        text-align: center;
+    }
+        #conito
+        {
+            width: 617px;
+            height: 380px;
+            display: inline-block;
+            background-color: rgb(250, 101, 133);
+        }
+            #llaz
+            {
+                width: 617px;
+                height: 150px;
+                display: inline-block;
+            }
+                #rama
+                {
+                    width: 120px;
+                    height: 120px;
+                    border-radius: 50%;
+                    background-color: thistle;
+                    display: inline-block;
+                }
+                #cien
+                {
+                    width: 100px;
+                    height: 130px;
+                    display: inline-block;
+                }
+                    #numerros
+                    {
+                        width: 35px;
+                        height: 35px;
+                        border-radius: 50%;
+                        background-color: turquoise;
+                        margin: 3px;
+                        display: inline-block;
+                    }
+                #tinn
+                {
+                    width: 370px;
+                    height: 130px;
+                    display: inline-block;
+                }
+                    #palabra
+                    {
+                        width: 350px;
+                        height: 30px;
+                        background-color: yellow;
+                        margin: 10px;
+                    }
+            #seis
+            {
+                width: 617px;
+                height: 230px;
+            }
+                #mariposita
+                {
+                    width: 70px;
+                    height: 70px;
+                    background-color: indigo;
+                    display: inline-block;
+                    margin-right: 5px;
+                }
+                #comilla
+                {
+                    width: 50px;
+                    height: 70px;
+                    border-radius: 50%;
+                    background-color: orchid;
+                    display: inline-block;
+                    margin-left: 12px;
+                    margin-right: 12px;
+                }
+                #soll
+                {
+                    width: 70px;
+                    height: 70px;
+                    background-color: palegoldenrod;
+                    display: inline-block;
+                    margin-right: 5px;
+                }
+        #pillitosp
+        {
+            width: 617px;
+            height: 380px;
+            background-color: rgb(59, 165, 59);
+            margin: 15px 20px 50px ;
+            margin-right: 0px;
+            display:inline-block;
+            
+            
+        }
+            #blancos
+            {
+                width: 595px;
+                height: 50px;
+                background-color:rgb(12, 177, 177);
+                margin-left: 10px;
+                margin-top: 5px;
+            }
+            #rana
+            {
+                width: 119px;
+                height: 100px;
+                border-radius: 50%;
+                background-color: rgb(226, 54, 111);
+                margin-top: 7px;
+                display: inline-block;
+            }
+    #espacio
+    {
+        width: 1260px;
+        height: 550px;
+        background-color: rgb(26, 211, 103);
+        margin: 10px;
+        padding: 10px;
+    }
+        #conejito
+        {
+            width: 1260px;
+            height: 200px;
+        }
+            #doss
+            {
+                width: 1240px;
+                height: 100px;
+                margin: 10px;
+                background-color: rgb(224, 33, 215);
+            }
+            #tress
+            {
+                width: 1240px;
+                height: 80px;
+                background-color:rgb(121, 95, 235);
+                margin-left: 10px;
+            }
+        #gloss
+        {
+            width: 1260px;
+            height: 350px;
+        }
+            #borrega
+            {
+                width: 200px;
+                height: 320px;
+                background-color: rgb(199, 223, 67);
+                margin: 10px;
+                display: inline-block;
+            }
+                #acuario
+                {
+                    width: 180px;
+                    height: 145px;
+                    background-color: powderblue;
+                    margin: 10px;
+                }
+                #acuario1
+                {
+                    width: 180px;
+                    height: 140px;
+                    background-color:rgb(230, 41, 157);
+                    margin-left: 10px;
+                    margin-top: 10px;
+                }
+                    #punto
+                    {
+                        width: 180px;
+                        height: 11.5px;
+                        margin-top: 11.5px;
+                        background-color: aquamarine;
+                    }
+            #lana
+            {
+                width: 800px;
+                height: 320px;
+                background-color:salmon;
+                display: inline-block;
+                margin-bottom: 10px;
+            }
+                #tecla
+                {
+                    width: 780px;
+                    height: 190px;
+                    margin-left: 10px;
+                }
+                    #ratonbaquero
+                    {
+                        width: 780px;
+                        height: 80px;
+                        background-color: skyblue;
+                        margin-top: 5px;
+                    }
+                    #manzana
+                    {
+                        width: 780px;
+                        height: 60px;
+                        background-color: slateblue;
+                        margin-top: 5px;
+                    }
+                    #tuil
+                    {
+                        width: 780px;
+                        height: 40px;
+                        background-color: darkcyan;
+                        margin-top: 5px;
+                    }
+                #cachis
+                {
+                    width: 780px;
+                    height: 120px;
+                    margin-left: 10px;
+                }
+                    #pescadin
+                    {
+                        width: 110px;
+                        height: 110px;
+                        border-radius: 50%;
+                        background-color: darkorchid;
+                        margin: 5px;
+                        display: inline-block;
+                        margin-bottom: 20px;
+                    }
+                    #griss
+                    {
+                        width: 390px;
+                        height: 110px;
+                        margin: 5px;
+                        background-color: rgb(130, 193, 223);
+                        display: inline-block;
+                        margin-bottom: 20px;
+                    }
+            #wats 
+            {
+                width: 200px;
+                height: 320px;
+                margin: 10px;
+                display: inline-block;
+            }
+                #multt
+                {
+                    width: 200px;
+                    height: 75px;
+                    margin-top: 5px;
+                    background-color: rgb(206, 196, 64);
+                }
+    #fantasma
+    {
+        width: 1280px;
+        height: 590px;
+        background-color: rgb(128, 9, 9);
+        margin: 10px;
+    }
+        #eyys
+        {
+            width: 1000px;
+            height: 230px;
+            background-color:hotpink;
+            margin: 10px auto;
+            text-align: center;
+        }
+        #purpl
+        {
+            width: 1260px;
+            height: 280px;
+            background-color:rgb(38, 180, 216);
+            margin-bottom: 10px;
+            margin-left: 10px;
+        }
+            #papaboy
+            {
+                width: 1240px;
+                height: 200px;
+                margin: 10px;
+                margin-top: 20px;
+            }
+                #hora
+                {
+                    width: 200px;
+                    height: 200px;
+                    background-color: rgb(141, 128, 12);
+                    margin-right: 3px;
+                    display: inline-block;
+                    border-radius: 50%;
+                }
+            #abispita
+            {
+                width: 1240px;
+                height: 50px;
+                margin-bottom: 10px;
+                margin-left: 10px;
+            }
+                #abejitachiquitita
+                {
+                    width: 200px;
+                    height: 50px;
+                    background-color: coral;
+                    display: inline-block;
+                    margin-left: 3px;
+                }

@@ -1,0 +1,151 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    background-color: rgb(203, 126, 158);
+}
+#cabeza
+{
+    width: 100%;
+    height: 240px;
+    background-color: blueviolet;
+    margin: 0px 0px 100px 0px;
+}
+#cont4
+{
+    width:370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(49, 91, 128); 
+}
+#cont5
+{
+    width: 370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(120, 162, 43); 
+}
+#cont6
+{
+    width: 370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(80, 224, 240); 
+}
+#cont7
+{
+    width:370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(191, 126, 186); 
+}
+#morado
+{
+    width: 100%;
+    height: 199px;
+    background-color: rgb(188, 146, 227);
+    text-align: center;
+    margin: 0px 0px 100px 0px;
+}
+#numer2
+{
+    width:199px;
+    height: 199px;
+    background-color: rgb(255, 12, 3); 
+    text-align: center;
+    margin: 25px 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: auto;
+    border: 3;        
+}
+#cuerpo
+{
+    width: 100%;
+    height: 470px;
+    background-color: rgb(29, 165, 154);
+    margin: 0px 0px 100px 0px;   
+}
+#jazmin
+{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(29, 165, 154);
+    text-align: center;
+    margin: 0px 0px 100px 0px;     
+}
+#all2
+{
+    width:370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(236, 211, 19); 
+}
+#all3
+{
+    width: 370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(51, 33, 210); 
+}
+#all4
+{
+    width: 370px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(133, 237, 76); 
+}
+#all5
+{
+    width:370px;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(135, 13, 125); 
+}
+#casa1
+{
+    width:180px;
+    height: 180px;
+    background-color: rgb(122, 76, 119); 
+    text-align: center;
+    margin: 25px 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: auto;
+    border: 1;  
+}
+#casa2
+{
+    width: 340px;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 100px;
+    background-color: rgb(1, 99, 86); 
+}
+#casa3
+{
+    width:340px;
+    text-align: center;
+    height: 100%;
+    display: inline-block; 
+    border: 1;
+    margin-left: 100px;
+    background-color: rgb(254, 187, 62); 
+}
+#casa4
+{
+    width:180px;
+    height: 180px;
+    border: 1; 
+    background-color: rgb(25, 55, 223);
+    display: inline-block; 
+    text-align: center;
+    margin: 25px 25px;
+    border-radius: 50%;
+    margin: auto;    
+}

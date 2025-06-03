@@ -1,0 +1,51 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#cabeza
+{
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(157, 67, 151);
+
+}
+#cuerpo
+{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(149, 255, 255);
+}
+#pie
+{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+
+}
+#proyecto1
+{
+    width: 20%;
+    height: 50px;
+    background-color: brown;
+    display: inline-block;
+    text-align: center;
+    margin-top: 25px;
+}
+#proyecto2
+{
+    width: 20%;
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+}
+#proyecto3
+{
+    width: 20%;
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+}

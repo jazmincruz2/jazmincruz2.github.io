@@ -1,0 +1,511 @@
+*
+{
+    margin: 10px;
+    padding: 0;
+}
+#cabeza
+{
+    width: 1000px;
+    height: 1300px;
+    background-color: rgb(234, 133, 229);
+    border: 7px black solid;
+    margin: 500px auto;
+    
+}
+#cont_1
+{
+    width: 475.5px;
+    height: 630px;
+    background-color: rgb(30, 158, 158);
+    display: inline-block;
+}
+    #cuadr_1
+    {
+        width: 140px;
+        height: 600px;
+        background-color: rgb(49, 65, 240);
+        display: inline-block;
+        margin-top: 10px;
+        
+       
+    }
+        #circulo_1
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: rgb(230, 41, 44);
+            margin-top: 15px;
+           margin-left: 20px;
+        }
+        #circulo_2
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: rgb(66, 205, 147);
+            margin-bottom: 15px;
+            margin-left: 20px;
+           
+        }
+        #cuadrado
+        {
+            width: 100px;
+            height: 50px;
+            background-color: rgb(141, 84, 63);
+            margin-left: 22px;
+        }
+    #cjaz
+    {
+        width: 290px;
+        height: 610px;
+        display: inline-block;
+        background-color: blue;
+       
+    }
+        #amarillo
+        {
+            width: 270px;
+            height: 70px;
+            background-color: rgb(189, 166, 189);
+            display: inline-block;
+            margin-top: 10px;
+            
+        }
+            #flor_1
+            {
+                width: 35px;
+                height: 35px;
+                background-color: darkred;
+                border-radius: 50%;
+                display: inline-block;
+                margin-bottom: 15px;
+               
+                
+            }
+            #rojo
+            {
+                width: 70px;
+                height: 40px;
+                background-color: brown;
+                display: inline-block;
+                margin-bottom: 15px;
+            }
+        #verde
+        {
+            width: 120px;
+            height: 500px;
+            background-color: rgb(132, 59, 126);
+            display: inline-block;
+          
+            
+        }
+            #azul_a
+            {
+                width: 100px;
+                height: 30px;
+                background-color: black;
+            }
+            #yazz
+            {
+                width: 100px;
+                height: 100px;
+                border-radius: 50%;
+                background-color: peru;
+                margin-left: 10px;
+            }
+        #mora
+        {
+            width: 120px;
+            height: 500px;
+            background-color: rgb(47, 255, 0);
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+            #rosa_1 
+            {
+                width: 32px;
+                height: 32px;
+                border-radius: 50%;
+                background-color: peru;
+                display: inline-block;
+                margin-left: 15px;
+                
+            }
+            #blanco
+            {
+                width: 100px;
+                height: 360px;
+                background-color: rgb(248, 237, 24);
+                margin-left: 10px;
+                display: inline-block;
+                margin-bottom: 30px;
+                
+            }
+#pollo
+{
+    width: 475.5px;
+    height: 630px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+}
+    #agua_1
+    {
+        width: 140px;
+        height: 600px;
+        background-color: rgb(6, 205, 185);
+        display: inline-block;
+    }
+        #flecha
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: rgb(143, 6, 181);
+            margin-top: 15px;
+            margin-left: 20px;
+        }
+        #flecha_22
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: rgb(7, 100, 5);
+            margin-bottom: 15px;
+            margin-left: 20px;
+        
+        }
+        #narr
+        {
+            width: 100px;
+            height: 50px;
+            background-color: rgb(213, 78, 6);
+            margin-left: 22px;
+        }
+    #plan
+    {
+        width: 290px;
+        height: 610px;
+        display: inline-block;
+        background-color: rgb(80, 83, 255);
+    }
+        #alm
+        {
+            width: 270px;
+            height: 70px;
+            background-color: rgb(107, 187, 111);
+            display: inline-block;
+            margin-top: 10px;
+        }
+            #jaz2
+            {
+                width: 35px;
+                height: 35px;
+                background-color: rgb(217, 80, 183);
+                border-radius: 50%;
+                display: inline-block;
+                margin-top: 15px;
+            }
+            #mall
+            {
+                width: 70px;
+                height: 40px;
+                background-color: rgb(207, 1, 1);
+                display: inline-block;
+                margin-top: 15px;
+            }
+        #corazon
+        {
+            width: 120px;
+            height: 500px;
+            background-color: rgb(255, 145, 0);
+            display: inline-block;
+            
+        }  
+            #azulito
+            {
+                width: 100px;
+                height: 30px;
+                background-color: rgb(6, 191, 216);
+            }
+            #circulos
+            {
+                width: 100px;
+                height: 100px;
+                border-radius: 50%;
+                background-color: rgb(95, 56, 18);
+                margin-left: 10px;
+            }
+        #contenedor_44
+            {
+                width: 120px;
+                height: 500px;
+                background-color: rgb(47, 255, 0);
+                display: inline-block;
+                
+                
+            }
+                #carro
+                {
+                    width: 32px;
+                    height: 32px;
+                    border-radius: 50%;
+                    background-color: peru;
+                    display: inline-block;
+                    margin-left: 15px;
+                    
+                }
+                #teles
+                {
+                    width: 100px;
+                    height: 360px;
+                    background-color: aqua;
+                    margin-left: 10px;
+                    display: inline-block;
+                    margin-bottom: 30px;
+                }
+#crom
+{
+    width: 970px;
+    height: 620px;
+    background-color: rgb(98, 221, 36);
+}
+    #cierre
+    {
+        width: 463px;
+        height: 600px;
+        background-color: rgb(130, 20, 255);
+        display: inline-block;
+    }
+       
+            #dedo
+            {
+                width: 444.5px;
+                height: 60px;
+                background-color: lightcoral;
+                text-align: center;     
+            }    
+                    #feliz
+                    {
+                        width: 15px;
+                        height: 15px;
+                        display: inline-block;
+                        background-color: rgb(25, 23, 23);
+                        border-radius: 50%;
+                        margin-left: 5px;
+                        margin-top: 5px
+                    }  
+            #fott_1
+            {
+                width: 444.5px;
+                height: 60px;
+                background-color: rgb(255, 0, 132);
+                
+            }
+                #boy
+                {
+                    width: 93px;
+                    height: 15px;
+                    background-color: tomato;
+                    display: inline-block;
+                    margin-left: 5px;
+                    margin-top: 5px
+                }
+                
+    #eid
+    {
+        width: 330px;
+        height: 430px;
+        background-color: rgba(241, 208, 157, 0.978);
+        display: inline-block;
+    }
+        #oval
+        {
+            width: 100px;
+            height: 170px;
+            margin-top: 10px;
+            display: inline-block;
+        }
+            #planta
+            {
+                width: 55px;
+                height: 55px;
+                border-radius: 50%;
+                background-color: blueviolet;
+                display: inline-block;
+                margin-bottom: 40px;
+                
+            }
+            #pase
+            {
+                width: 180px;
+                height: 170px;
+                background-color: rgb(217, 82, 177);
+                display: inline-block;
+                margin-bottom:35px ;
+            }
+            #vende
+            {
+                width: 180px;
+                height: 170px;
+                background-color: rgb(0, 132, 139);
+                display: inline-block;
+                margin-bottom: 70px;
+                margin-left: 15px;
+            }
+        #tress
+         {
+            width: 100px;
+            height: 170px;
+            margin-top: 10px;
+            display: inline-block;
+        }
+                #gato_1
+                {
+                    width: 55px;
+                    height: 55px;
+                    border-radius: 50%;
+                    background-color: blueviolet;
+                    display: inline-block;
+                    margin-bottom: 55px;
+                    margin-left: 25px;
+                  
+                   
+                    
+                }
+        #soll_p
+        {
+            width: 86px;
+            height: 428px;
+            background-color: chartreuse;
+            display: inline-block;
+            margin-bottom: 43px;
+        }
+            #v6
+            {
+                width: 70px;
+                height: 70px;
+                background-color:red;
+                border-radius: 50%;
+                margin-top: 30px;
+            }
+            
+    #mono_1
+    {
+        width: 463px;
+        height: 600px;
+        background-color: rgb(240, 88, 88);
+        display: inline-block;
+    }
+       
+            #abejita_chiquitita
+            {
+                width: 444.5px;
+                height: 60px;
+                background-color: rgb(251, 17, 189);
+                text-align: center;
+              
+                
+            }    
+                    #bolsa_a
+                    {
+                        width: 15px;
+                        height: 15px;
+                        display: inline-block;
+                        background-color: rgb(6, 124, 107);
+                        border-radius: 50%;
+                        margin-left: 5px;
+                        margin-top: 5px
+                    }  
+            #punto_1
+            {
+                width: 444.5px;
+                height: 60px;
+                background-color: rgb(157, 139, 35);
+                
+            }
+                #diezz
+                {
+                    width: 93px;
+                    height: 15px;
+                    background-color: palevioletred;
+                    display: inline-block;
+                    margin-left: 5px;
+                    margin-top: 5px
+                }          
+    #visual 
+    {
+        width: 330px;
+        height: 430px;
+        background-color: rgb(37, 183, 11);
+        display: inline-block;
+    }
+        #cabb
+        {
+            width: 100px;
+            height: 170px;
+            margin-top: 10px;
+            display: inline-block;
+        }
+            #j1
+            {
+                width: 55px;
+                height: 55px;
+                border-radius: 50%;
+                background-color: rgba(129, 41, 211, 0.805);
+                display: inline-block;
+                margin-bottom: 40px;
+                
+            }
+            #xl24
+            {
+                width: 180px;
+                height: 170px;
+                background-color: rgb(5, 216, 72);
+                display: inline-block;
+                margin-bottom:35px ;
+            }
+            #insec
+            {
+                width: 180px;
+                height: 170px;
+                background-color: rgb(124, 179, 250);
+                display: inline-block;
+                margin-bottom: 70px;
+                margin-left: 15px;
+            }
+        #camm_2
+         {
+            width: 100px;
+            height: 170px;
+            margin-top: 10px;
+            display: inline-block;
+        }
+             #diesi
+             {
+                width: 55px;
+                height: 55px;
+                 border-radius: 50%;
+                 background-color: rgb(226, 137, 43);
+                 display: inline-block;
+                 margin-bottom: 55px;
+                 margin-left: 25px;
+                }
+#f1gura
+{
+    width: 85px;
+    height: 428px;
+    display: inline-block;
+    background-color: rgb(209, 77, 212);
+    margin-bottom: 45px;
+   
+  
+}
+    #gr4as
+    {
+        width: 70px;
+        height: 70px;
+        background-color: rgb(23, 151, 215);
+        border-radius: 50%;
+        margin-top: 30px;
+    }

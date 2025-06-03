@@ -1,0 +1,193 @@
+*
+{
+    margin: 0%;
+    padding: 0%
+}
+body
+{
+    width: 1500px;
+    height: 400px;
+    background-color: rgb(166, 44, 203);
+}
+#cabecera1
+{
+    width: 87%;
+    height: 210px;
+    display: inline-block;
+    margin: 20px  20px auto;
+    background-color: rgb(248, 247, 248);
+}
+#circulo_1
+{
+    width: 205px;
+    height: 205px;
+    background-color: rgb(26, 239, 193); 
+    border-radius: 70%;
+    display: inline-block;
+    margin-left: 10px;
+    margin: 2px 3px auto;
+    border: 1;
+}
+#libreta1
+{
+    width: 940px;
+    height: 150px;
+    background-color: rgb(197, 87, 138);
+    margin: -250px 10px auto;
+    margin-left: 150px;
+    margin: -180px 300px auto;
+    display:inline-block;
+}
+#jaz221
+{
+    width: 87%;
+    height: 120px;
+    background-color: rgb(252, 251, 250);
+    margin: 10px 50px auto;
+    margin-left: 20px;
+    display: inline-block;
+
+}
+#silla_1
+{
+    width: 96.5%;
+    height: 80px;
+    background-color: rgb(3, 163, 83);
+    margin: 20px 30px auto;
+    margin-left: 20px;
+    display: inline-block;    
+}
+#espacio_1
+{
+    width: 247px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(49, 91, 128); 
+}
+#espacio_2
+{
+    width: 247px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(120, 162, 43); 
+}
+#espacio_3
+{
+    width: 247px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(80, 224, 240); 
+}
+#espacio_4
+{
+    width: 247px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(191, 126, 186); 
+}
+#espacio_5
+{
+    width: 247px;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(24, 221, 10);    
+}
+#burbuja_3
+{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(252, 253, 252);
+    margin: 30px 1px auto;
+    display:inline-block;
+}
+#cuadrado_a
+{
+    width: 112%;
+    height: 485px;
+    margin: 10px  900px auto;
+    display: inline-block;
+    margin: -965px 610px auto;
+    background-color: rgb(166, 82, 214); 
+}
+#cuadrado_b
+{
+    width: 100%;
+    height: 485px;
+    margin: 30px  900px auto;
+    display: inline-block;
+    margin: 300px 100px auto;
+    margin: 495px  1px auto;
+    background-color: rgb(58, 153, 213);
+}
+#cuadrado
+{   
+    width: 600px;
+    height: 980px;
+    display: inline-block;
+    margin: 10px  30px auto;
+    margin-left: 10px;
+    background-color: rgb(237, 150, 69);    
+}
+#cremm_2
+{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(255, 12, 3); 
+    margin: 30px 70px ;
+    margin-left: 500px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 30px 200px auto;
+    border: 1 ; 
+}
+#perr_2
+{
+    width: 96%;
+    height: 665px;
+    margin: 20px 90px auto;
+    margin-left: 10px;
+    background-color: rgb(145, 216, 13);  
+}
+#contenedor_circulo
+{
+    width: 218%;
+    height: 170px;
+    background-color: rgb(251, 253, 253);
+    margin: 40px 70px auto;
+    margin-left: -10px;
+    display: inline-block;
+      
+}
+#circulo_a
+{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(22, 168, 187); 
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 25px  100px;  
+    margin-left: 170px; 
+}
+#circulo_b
+{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(92, 181, 233); 
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 25px  100px;
+    margin-left: 170px;         
+}
+#circulo_c
+{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(56, 223, 209); 
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 25px  100px;   
+    margin-left: 170px; 
+}

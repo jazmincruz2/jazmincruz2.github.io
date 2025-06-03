@@ -1,0 +1,137 @@
+*
+{
+        margin: 0;
+        padding: 0;
+}
+#pagina
+{
+    width: 750px;
+    height: 900px;
+    background-color: brown;
+    border: 1px black;
+    margin: 10px auto;
+}
+/* seccion para la cabecera de la pagina */
+#cabecera
+{
+    width: 100%;
+    height: 100px;
+    background-color: crimson;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    padding: 2.5px;    
+}
+#circulo_izquierda
+{
+    width: 90px;
+    height: 90px;
+    background-color: aqua;
+    border-radius: 50%;
+    display: inline-block;
+}
+#cuadro_centro
+{
+        width: 550px;
+        height: 85px;
+        background-color: bisque;
+        display: inline-block;
+        text-align: center;
+        padding: 2.5px;
+}
+#circulos_centrales 
+    {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    background-color: azure;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#circulo_derecha
+{   
+        width: 90px;
+        height: 90px;
+        background-color: rgb(88, 197, 55);
+        border-radius: 50%;
+        display: inline-block;
+}
+/* seccion para elcuerpo de la pagina */
+#cuerpo 
+{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(143, 96, 40);
+    margin-top: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#seccion_izquierda
+{
+width:30%;
+height:600px;
+background-color: chartreuse;
+display: inline-block;
+margin-top: 25px;
+}
+    #circulos_verticales
+    {
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    background-color: darkred;
+    margin: auto;
+    margin-top: 7px;
+    }
+#seccion_derecha
+{
+   width: 65%;
+   height: 600px; 
+   background-color: darkmagenta;
+   display: inline-block;
+   margin-top: 25px;
+}
+    #derecha_superior
+    {
+
+    }
+    #cuadro_superior
+    {
+        width: 95%;
+        height: 300px;
+        background-color: lightseagreen;
+        margin: auto;
+    }
+    #derecha_medio
+    {
+        text-align: center;
+    }
+    #cuadros_medio
+    {
+        width: 25%;
+        height: 100px;
+        background-color: orchid;
+        display: inline-block;
+    }
+    #derecha_inferior
+    {
+        text-align: center;
+    }
+    circulos_inferior
+    {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background-color: plum;
+        display: inline-block;
+
+    }
+/* seccion para el pie de la pagina */
+#pie
+{
+    width: 100%;
+    height: 100px;
+    background-color: darkgreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
